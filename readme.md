@@ -79,4 +79,3 @@ Through exploration of the API, we discovered:
 
 ## Praven Tiwari
 ### praveentiwari29004@gmail.com
-[Your Name]
